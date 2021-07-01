@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="854913d5-9ac7-4230-a563-7f5ae68d1b2c" name="dp4">
+        <fileTransfer rootFolder="/var/www/ChatFace-App" accessType="SFTP" host="dp34.devpartners.co.uk" port="22" sshConfigId="4276d330-dcf6-4b80-884f-7650c6dac84c" sshConfig="ubuntu@dp34.devpartners.co.uk:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
